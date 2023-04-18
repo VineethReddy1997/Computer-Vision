@@ -1,4 +1,4 @@
-# FaceDetection
+# Face Detection
 **Face detection** is a branch of **image processing** that uses machine learning to **detect faces in images, videos and on live streaming**
 
 
@@ -7,15 +7,15 @@
 
 * Running on the windows 
 
-### LiveDetection 
+### Live Detection 
 
     > python3 FaceRecognition.py // For Live detection of the video
 
-### ImageDetection
+### Image Detection
 
     > python3 ImageDetection.py // for Images 
 
-### VideoDetection
+### Video Detection
 
     > python3 VideoStream.py // For videos
 
